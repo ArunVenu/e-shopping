@@ -17,7 +17,9 @@ $(function(){
 		break;
 	
 	default :
-		$('#home').addClass('active');
+		$('#allproduct').addClass('active');
+		$('#a_'+menu).addClass('active');
+	
 		break;
 	
 	
